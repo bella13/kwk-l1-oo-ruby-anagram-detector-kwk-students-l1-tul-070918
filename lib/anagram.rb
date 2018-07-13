@@ -1,17 +1,17 @@
 # Your code goes here!
 
-def initialize(anagrams)
+  def initialize(anagrams)
   @listen = listen
   @listen = inlets 
-end
+ end
 
-def listen 
+  def listen 
   @listen 
-end 
+ end 
 
-def inlets 
+  def inlets 
   @inlets = inlets 
   @listen = inlets 
-end 
+ end 
 
 end 
